@@ -1,0 +1,21 @@
+.sidebar {
+  width: 15vw;
+  min-height: 100vh;
+  height: fit-content;
+  height: 170vh;
+  background-color: #d9e9fa;
+}
+
+.sidebar__element {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar__icon {
+  margin-inline: 1rem;
+  margin-block: 10px;
+}
+
+.sidebar__element:hover {
+  background-color: #fa9cc0;
+}
