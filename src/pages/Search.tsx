@@ -28,7 +28,7 @@ export default function Search() {
       url: 'https://deezerdevs-deezer.p.rapidapi.com/search',
       params: { q: text },
       headers: {
-        'X-RapidAPI-Key': '0dc43eb808msh31bdc3a5837dd3dp114530jsn6cadddda9ccf',
+        'X-RapidAPI-Key': 'key',
         'X-RapidAPI-Host': 'deezerdevs-deezer.p.rapidapi.com'
       }
     };
