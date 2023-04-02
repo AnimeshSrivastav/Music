@@ -14,7 +14,7 @@ const Songscard = () => {
                 url: 'https://shazam-song-recognizer.p.rapidapi.com/top_country_tracks',
                 params: { country_code: 'US', limit: '10', start_from: '0' },
                 headers: {
-                    'X-RapidAPI-Key': '0dc43eb808msh31bdc3a5837dd3dp114530jsn6cadddda9ccf',
+                    'X-RapidAPI-Key': 'key',
                     'X-RapidAPI-Host': 'shazam-song-recognizer.p.rapidapi.com'
                 }
             };
