@@ -12,7 +12,7 @@ export default function Playlist() {
         method: 'GET',
         url: 'https://deezerdevs-deezer.p.rapidapi.com/genre/%7Bid%7D',
         headers: {
-          'X-RapidAPI-Key': '38a11fab9amshd1f38e75dc1cd09p15459bjsna5966bd4774d',
+          'X-RapidAPI-Key': 'key',
           'X-RapidAPI-Host': 'deezerdevs-deezer.p.rapidapi.com'
         }
       };
